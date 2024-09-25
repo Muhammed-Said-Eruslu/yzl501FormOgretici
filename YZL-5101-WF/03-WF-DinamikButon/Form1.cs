@@ -19,14 +19,14 @@ namespace _03_WF_DinamikButon
                 // Yapılacak işler buraya yazılır
                 // Buton bir sınıftır buton sınıfından örnek cıkara bilirim
                 // new Button(); // Buton sınıfndan bir nesne üretiyorum
-                // Button sınıfından bir nesne üretmek için new keywordu ile birlikte sınıfın ibr constructor metodunu çağırıyoruz
+                // Button sınıfından bir nesne üretmek için new keywordu ile birlikte sınıfın bir constructor metodunu çağırıyoruz
                 // new Console(); // static sınıfların örnekleri üretilemez
 
                 // new MarshalByRefObject(); // Abstract sınıfların ya da interface'lerin instanc'ı olusturulamaz
 
                 // new IList<int>(); Abstract sınıfların ya da interfacelerin instance'ı oluşturulamaz
 
-                Button btn = new Button(); // Bir nesne oluştura bilmek için o sınıfın consturterini cağırmak grekıyor // şimşekler event
+                Button btn = new Button(); // Bir nesne oluştura bilmek için o sınıfın consturterini cağırmak gerekıyor // şimşekler event
 
                 btn.Width = 50;
                 btn.Height = 50;

@@ -8,7 +8,7 @@ namespace _03_WF_Örnek
             InitializeComponent();
 
             // Login işlemi yapılcak Admin ve şifre alıcak "Admin" ve "123" ise personel giriş
-            // sayfasına yonelecek // Personel Bilgileri : Adı,Soyadı,TCKNO,Departmanı (5-10),Cinsiyet, Hobleri ibren fazla seçebilir // ekleme yaparken alanların boş geçilmemesine dikkat edin
+            // sayfasına yonelecek // Personel Bilgileri : Adı,Soyadı,TCKNO,Departmanı (5-10),Cinsiyet, Hobleri birden fazla seçebilir // ekleme yaparken alanların boş geçilmemesine dikkat edin
             // Listbox verileri yaz
             // Kaydedilinci tüm alanları default değerlerine getir
             Login("Admin", "123");
