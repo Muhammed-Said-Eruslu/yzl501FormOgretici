@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|c:\\users\\bilge adam\\source\\repos\\yzl-5101\\yzl-5101-wf\\yzl-5101-wf\\04-wf-runtimecontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|solutionrelative:04-wf-runtimecontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|c:\\users\\bilge adam\\source\\repos\\yzl-5101\\yzl-5101-wf\\yzl-5101-wf\\04-wf-runtimecontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|solutionrelative:04-wf-runtimecontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|c:\\users\\bilge adam\\source\\repos\\yzl-5101\\yzl-5101-wf\\yzl-5101-wf\\04-wf-runtimecontrol\\notform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|solutionrelative:04-wf-runtimecontrol\\notform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888EFAEA-7AA2-4763-8B82-B4B0A2441903}|03-WF-\u00D6rnek\\03-WF-\u00D6rnek.csproj|c:\\users\\bilge adam\\source\\repos\\yzl-5101\\yzl-5101-wf\\yzl-5101-wf\\03-wf-\u00F6rnek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888EFAEA-7AA2-4763-8B82-B4B0A2441903}|03-WF-\u00D6rnek\\03-WF-\u00D6rnek.csproj|solutionrelative:03-wf-\u00F6rnek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|c:\\users\\bilge adam\\source\\repos\\yzl-5101\\yzl-5101-wf\\yzl-5101-wf\\04-wf-runtimecontrol\\sayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8170B2CE-98CF-4F27-81C9-904FEF872A03}|04-WF-RuntimeControl\\04-WF-RuntimeControl.csproj|solutionrelative:04-wf-runtimecontrol\\sayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SayfaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\SayfaForm.cs",
+              "RelativeDocumentMoniker": "04-WF-RuntimeControl\\SayfaForm.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\SayfaForm.cs [Design]",
+              "RelativeToolTip": "04-WF-RuntimeControl\\SayfaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:25:36.715Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\Form1.cs",
+              "RelativeDocumentMoniker": "04-WF-RuntimeControl\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\Form1.cs",
+              "RelativeToolTip": "04-WF-RuntimeControl\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:23:59.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\Form1.cs",
+              "RelativeDocumentMoniker": "04-WF-RuntimeControl\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\Form1.cs [Design]",
+              "RelativeToolTip": "04-WF-RuntimeControl\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:17:18.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\NotForm.cs",
+              "RelativeDocumentMoniker": "04-WF-RuntimeControl\\NotForm.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\04-WF-RuntimeControl\\NotForm.cs [Design]",
+              "RelativeToolTip": "04-WF-RuntimeControl\\NotForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:36:52.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\03-WF-\u00D6rnek\\Program.cs",
+              "RelativeDocumentMoniker": "03-WF-\u00D6rnek\\Program.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\source\\repos\\YZL-5101\\YZL-5101-WF\\YZL-5101-WF\\03-WF-\u00D6rnek\\Program.cs",
+              "RelativeToolTip": "03-WF-\u00D6rnek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:19:15.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

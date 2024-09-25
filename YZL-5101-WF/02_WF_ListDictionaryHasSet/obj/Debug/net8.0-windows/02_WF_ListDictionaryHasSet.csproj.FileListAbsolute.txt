@@ -1,0 +1,16 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\bin\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\bin\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\bin\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\bin\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\bin\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\_02_WF_ListDictionaryHasSet.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\refint\02_WF_ListDictionaryHasSet.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\02_WF_ListDictionaryHasSet.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\02_WF_ListDictionaryHasSet\obj\Debug\net8.0-windows\ref\02_WF_ListDictionaryHasSet.dll

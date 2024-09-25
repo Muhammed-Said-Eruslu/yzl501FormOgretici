@@ -1,0 +1,16 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\bin\Debug\net8.0-windows\03-WF-DinamikButon.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\bin\Debug\net8.0-windows\03-WF-DinamikButon.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\bin\Debug\net8.0-windows\03-WF-DinamikButon.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\bin\Debug\net8.0-windows\03-WF-DinamikButon.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\bin\Debug\net8.0-windows\03-WF-DinamikButon.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\_03_WF_DinamikButon.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\refint\03-WF-DinamikButon.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\03-WF-DinamikButon.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\YZL-5101-WF\03-WF-DinamikButon\obj\Debug\net8.0-windows\ref\03-WF-DinamikButon.dll
